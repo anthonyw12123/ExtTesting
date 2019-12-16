@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtTesting", "ExtTesting\ExtTesting.csproj", "{CAD00F1F-B7B6-4D9A-8E14-FB7D10402CF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtTesting.Test", "ExtTesting.Test\ExtTesting.Test.csproj", "{5CC71411-16B8-437F-84EB-83BA546DB4FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAD00F1F-B7B6-4D9A-8E14-FB7D10402CF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAD00F1F-B7B6-4D9A-8E14-FB7D10402CF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAD00F1F-B7B6-4D9A-8E14-FB7D10402CF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAD00F1F-B7B6-4D9A-8E14-FB7D10402CF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CC71411-16B8-437F-84EB-83BA546DB4FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CC71411-16B8-437F-84EB-83BA546DB4FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CC71411-16B8-437F-84EB-83BA546DB4FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CC71411-16B8-437F-84EB-83BA546DB4FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
